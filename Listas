@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+		<title>Listas</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<h1>Listas com HTML</h1>
+		<h2>Listas não ordenadas</h2>
+		<ul>
+			<li>Carros</li>
+			<li>Cores</li>
+			<li>Países</li>
+			<li>Frutas</li>
+		</ul>
+		<h2>Listas ordenadas</h2>
+		<ol>
+			<li>Ayrton Senna</li>
+			<li>Juan Manuel Fangio</li>
+			<li>Michael Schumacher</li>
+			<li>Alain Prost</li>
+			<li>Lewis Hamilton</li>
+		</ol>
+		<h2>Listas ordenadas reversa</h2>
+		<ol reversed>
+			<li>Ayrton Senna</li>
+			<li>Juan Manuel Fangio</li>
+			<li>Michael Schumacher</li>
+			<li>Alain Prost</li>
+			<li>Lewis Hamilton</li>
+		</ol reversed>
+		<h2>Listas aninhadas</h2>
+		<ul>
+			<li>Cores</li>
+			<ul>
+				<li>Vermelho</li>
+				<li>Azul</li>
+				<ul>
+					<li>Verde claro</li>
+					<li>Verde escuro</li>
+				</ul>
+			</ul>
+			</li>
+		</ul>
+		<dl>
+			<dt>Café Latte</dt>
+			<dd>Café com leite</dd>
+			<dt>Capuccino italiano</dt>
+			<dd>Alguma quantia de café e de leite</dd>
+		</dl>
+	</body>
+</html>
